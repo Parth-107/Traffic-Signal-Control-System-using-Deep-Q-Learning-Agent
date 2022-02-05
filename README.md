@@ -2,7 +2,6 @@
 
 A framework where a deep Q-Learning Reinforcement Learning agent tries to choose the correct traffic light phase at an intersection to maximize traffic efficiency.
 
-I have uploaded this here to help anyone searching for a good starting point for deep reinforcement learning with SUMO. This code is extracted from my master thesis, and it represents a simplified version of the code used for my thesis work. I hope you can find this repository useful for your project.
 
 ## Getting Started
 
